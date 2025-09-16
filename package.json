@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.11.1",
-    "@storybook/addon-essentials": "6.0.5",
+    "@storybook/addon-essentials": "6.5.16",
     "@storybook/html": "^6.0.5",
     "@whitespace/storybook-addon-html": "1.2.4",
     "babel-loader": "^8.1.0",

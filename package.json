@@ -44,7 +44,7 @@
     "prettier": "2.0.5",
     "storybook-addon-paddings": "2.0.2",
     "url-loader": "4.1.0",
-    "webfonts-loader": "^5.2.2",
+    "webfonts-loader": "^8.1.1",
     "webpack": "4.44.1",
     "webpack-cli": "^3.3.12"
   }
